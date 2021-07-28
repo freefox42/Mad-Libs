@@ -1,1 +1,2 @@
-# Mad-Libs
+# Mad Libs
+This is a mad libs template.
